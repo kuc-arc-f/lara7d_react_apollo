@@ -6,7 +6,7 @@ import { ApolloProvider } from "@apollo/client";
 import client from '../apollo-client'
 
 import Home from './Home';
-import Test from './Test';
+import Test from './TestSession';
 import Navbar from './layout/Navbar';
 /* todos */
 import todos from './todos/Index';
